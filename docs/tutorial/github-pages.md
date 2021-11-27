@@ -1,5 +1,5 @@
 layout: page
-title: "PAGE TITLE"
+title: "Github Pages Tutorial"
 permalink: /tutorial/github-pages
 
 ## Welcome to GitHub Pages
