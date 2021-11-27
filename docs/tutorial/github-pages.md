@@ -1,6 +1,6 @@
 layout: page
 title: "PAGE TITLE"
-permalink: /tutorial/githubpages
+permalink: /tutorial/github-pages
 
 ## Welcome to GitHub Pages
 
