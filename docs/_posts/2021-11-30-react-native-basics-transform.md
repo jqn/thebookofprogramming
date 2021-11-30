@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "React Native Basics Transforms"
-date: '2021-11-30 10:49:11 -0400'
+date: '2021-11-30 10:49:11 -0000'
 categories: react-native basics
 ---
 
