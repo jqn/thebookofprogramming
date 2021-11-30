@@ -11,3 +11,5 @@ post without category https://jqn.github.io/thebookofprogramming/2021/11/30/reac
 with categories https://jqn.github.io/thebookofprogramming/react/basics/2021/11/30/react-native-basics-transform.html
 
 https://jqn.github.io/thebookofprogramming/react-native/basics/2021/11/30/react-native-basics-transform.html
+
+https://jqn.github.io/thebookofprogramming/blog/react-native/basics/2021/11/30/react-native-basics-transform.html
