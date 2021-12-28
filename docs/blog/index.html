@@ -3,12 +3,12 @@ layout: default
 title: "Blog"
 ---
 
-<h1>It works</h1>
+<h1>It works - 01</h1>
 
 <ul>
   {% for post in site.posts %}
   <li>
-    <a href="thebookofprogramming/{{ post.url }}">{{ post.title }}</a>
+    <a href="/thebookofprogramming/{{ post.url }}">{{ post.title }}</a>
   </li>
   {% endfor %}
 </ul>
