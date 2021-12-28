@@ -8,6 +8,8 @@
 
 The art of writring instructions for a computer to execute.
 
+[Blog](./blog/index.html)
+
 
 ### **Connect with me**
 
