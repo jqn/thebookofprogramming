@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "React Native Basics - Transforms"
+title: "React Native Basics - Transforms"
 categories: blog react-native basics
 ---
 
