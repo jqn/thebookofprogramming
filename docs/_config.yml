@@ -1,1 +1,10 @@
 theme: jekyll-theme-hacker
+defaults:
+  -
+  scope:
+    path: ""
+    type: "posts"
+  value:
+    layout: "default"
+    author: "jqn"
+
