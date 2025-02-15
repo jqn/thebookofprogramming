@@ -46,9 +46,7 @@ $ gem install jekyll bundler
 ### Run the site
 
 ```
-$ bundle init
 $ bundle install
-$ bundle add jekyll
 $ bundle exec jekyll serve
 // or
 $ jekyll serve --livereload
